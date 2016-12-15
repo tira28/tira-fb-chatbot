@@ -1,0 +1,6 @@
+applications:
+- name: tira-fbot-server
+  command: npm start
+  path: .
+  memory: 256M
+
